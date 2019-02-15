@@ -1,0 +1,21 @@
+body {
+    background-color: cadetblue;
+    color: white;
+}
+ 
+    
+
+.jumbotron {
+    background-image:url(header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.menu-lama{
+    margin-top: 60px;
+}
+.img.heading{
+    margin-top: 20px;
+}
